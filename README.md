@@ -34,7 +34,7 @@ clinic-Management-System-main/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/clinic-Management-System.git
+   git clone https://github.com/faikaf/clinic-Management-System.git
 2.Set Up the Environment
 
 Install XAMPP or any PHP server with MySQL.
